@@ -44,7 +44,7 @@ I am a Software Engineer and Web Developer. Since joining the GitHub community i
   <a href="https://www.instagram.com/rahul_birva" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:rp1327123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
